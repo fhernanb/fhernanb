@@ -1,6 +1,6 @@
-### Hi world :hand:
+### Hi world :hand: /play secret
 
-Welcome to my github, my name is Freddy and I’m currently working on Universidad Nacional de Colombia
+Welcome to my github :open_hands:
 
 <!--
 **fhernanb/fhernanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
