@@ -1,4 +1,4 @@
-### Hi world :hand: :/play secret:
+### Hi world :hand:
 
 Welcome to my github :open_hands:
 
