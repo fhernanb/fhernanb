@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there :hand:
 
 - 🔭 I’m currently working on Universidad Nacional de Colombia
 
