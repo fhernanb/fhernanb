@@ -1,6 +1,6 @@
 ### Hi world :hand:
 
-Welcome to my github :open_hands:
+Welcome to my github :octocat:
 
 <!--
 **fhernanb/fhernanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
