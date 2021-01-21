@@ -1,4 +1,4 @@
-## Hi world :waving_hand: 👋 my name is Freddy.
+## Hi world 👋 my name is Freddy.
 
 Welcome to my github :octocat:
 
