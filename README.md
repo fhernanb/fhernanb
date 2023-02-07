@@ -1,6 +1,24 @@
-{
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueId": 66,
-  "name": "Eddie Jaoude",
-  "username": "eddiejaoude"
-}
+### Hi there 👋, I'm Freddy Hernández
+#### I am a statistic teacher at UNAL.
+![I am a statistic teacher at UNAL.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: R / Python / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fhernanb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fhernanb74)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fhernanb.github.io/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhernanb)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fhernanb&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fhernanb)  
+
+![GitHub metrics](https://metrics.lecoq.io/fhernanb)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=fhernanb)  
+
+![Profile views](https://gpvc.arturio.dev/fhernanb)  
